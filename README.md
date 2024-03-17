@@ -11,21 +11,21 @@
     <br>
     <span>&#9679; const</span>
   <li><p><strong>Operators</strong> <a href="./lesson03/index.js">click here<a/></p></li>
-    <span>&#9679; Plus -> +</span>
+    <span>&#9679; Plus : +</span>
     <br>
-    <span>&#9679; Minus -> -</span>
+    <span>&#9679; Minus : -</span>
     <br>
-    <span>&#9679; Multiplication -> *</span>
+    <span>&#9679; Multiplication : *</span>
     <br>
-    <span>&#9679; Division -> /</span>
+    <span>&#9679; Division : /</span>
     <br>
-    <span>&#9679; Remainder divided by -> %</span>
+    <span>&#9679; Remainder divided by : %</span>
     <br>
-    <span>&#9679; Power -> **</span>
+    <span>&#9679; Power : **</span>
     <br>
-    <span>&#9679; Plus one -> ++</span>
+    <span>&#9679; Plus one : ++</span>
     <br>
-    <span>&#9679; Minus one -> --</span>
+    <span>&#9679; Minus one : --</span>
   <li><p><strong>String <a href="./lesson04/index.js">click here<a/></strong></p></li>
     <span>&#9679;`` "" ''</span>
   <li><p><strong>Boolean values</strong> <a href="./lesson05/index.js">click here<a/></p></li>
