@@ -13,7 +13,7 @@
   <li><p><strong>Operators <a href="./lesson03/index.js">click here<a/></strong></p></li>
     <span>&#9679; + - * / ** %</span>
   <li><p><strong>String <a href="./lesson04/index.js">click here<a/></strong></p></li>
-    <span>&#9679<p>``   ''</p></span>
+    <span>&#9679;`` ''</span>
   <li><p><strong>Boolean values <a href="./lesson05/index.js">click here<a/></strong></p></li>
   <li><p><strong>Conditional expressions <a href="./lesson06/index.js">click here<a/></strong></p></li>
   <li><p><strong>Null vs undifined <a href="./lesson07/index.js">click here<a/></strong></p></li>
