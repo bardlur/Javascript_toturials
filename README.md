@@ -1,6 +1,6 @@
 # Javascript toturials
 
-## Titles:
+## Lessons:
 
 <ol>
   <li><p><strong>Run your first code!</strong></p></li>
