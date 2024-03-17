@@ -3,15 +3,13 @@
 ## Lessons:
 
 <ol>
-  <li><p><strong>Run your first code!</strong>   <a href="./lesson01/index.js">click here<a/></p></li>
-  <li><p><strong>Variables</strong></p></li> 
+  <li><p><strong>Run your first code!</strong> <a href="./lesson01/index.js">click here<a/></p></li>
+  <li><p><strong>Variables</strong><a href="./lesson02/index.js">click here<a/></p></li> 
     <span>&#9679; var</span>
     <br>
     <span>&#9679; let</span>
     <br>
     <span>&#9679; const</span>
-    <br>
-    <a href="./lesson02/index.js">click here<a/>
   <li><p><strong>Operators <a href="./lesson03/index.js">click here<a/></strong></p></li>
     <span>&#9679; +   -   *   /   **   %   =</span>
   <li><p><strong>String <a href="./lesson04/index.js">click here<a/></strong></p></li>
