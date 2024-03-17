@@ -27,11 +27,11 @@
     <br>
     <span>&#9679; Minus one : --</span>
   <li><p><strong>String <a href="./lesson04/index.js">click here<a/></strong></p></li>
-    <span>&#9679; Double Quote: ""</span>
+    <span>&#9679; Double Quote: " "</span>
     <br>
-     <span>&#9679; Single Quote: ''</span>
+     <span>&#9679; Single Quote: ' '</span>
     <br>
-     <span>&#9679; Backtick: ``</span>
+     <span>&#9679; Backtick: ` `</span>
   <li><p><strong>Boolean values</strong> <a href="./lesson05/index.js">click here<a/></p></li>
   <li><p><strong>Conditional expressions </strong> <a href="./lesson06/index.js">click here<a/></p></li>
   <li><p><strong>Null vs undifined </strong> <a href="./lesson07/index.js">click here<a/></p></li>
