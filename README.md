@@ -3,5 +3,5 @@
 ## Titles:
 
 <ol>
-  <li></li>
+  <li><p><strong>Pay rent.</strong></p></li>
 </ol>
