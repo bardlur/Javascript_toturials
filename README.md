@@ -34,6 +34,9 @@
     <br>
      <span>&#9679; Backtick ` `</span>
   <li><p><strong>Boolean values</strong> <a href="./lesson05/index.js">click here<a/></p></li>
+    <span>&#9679; True</span>
+    <br>
+    <span>&#9679; False</span>
   <li><p><strong>Conditional expressions </strong> <a href="./lesson06/index.js">click here<a/></p></li>
   <li><p><strong>Null vs undifined </strong> <a href="./lesson07/index.js">click here<a/></p></li>
   <li><p><strong>Conditional operators </strong> <a href="./lesson08/index.js">click here<a/></p></li>
