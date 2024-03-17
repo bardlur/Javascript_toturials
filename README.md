@@ -23,9 +23,9 @@
     <br>
     <span>&#9679; Power -> **</span>
     <br>
-    <span>&#9679; +1 -> ++</span>
+    <span>&#9679; Plus one -> ++</span>
     <br>
-    <span>&#9679; -1 -> --</span>
+    <span>&#9679; Minus one -> --</span>
   <li><p><strong>String <a href="./lesson04/index.js">click here<a/></strong></p></li>
     <span>&#9679;`` "" ''</span>
   <li><p><strong>Boolean values</strong> <a href="./lesson05/index.js">click here<a/></p></li>
