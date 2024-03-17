@@ -15,12 +15,3 @@
   
 </ol>
 
-<div style="border: 1px solid #ccc; padding: 10px;">
-    <p>Welcome to the chat room!</p>
-    <p>User1: Hi there!</p>
-    <p>User2: Hello! How can I help you?</p>
-    <form>
-        <input type="text" placeholder="Type your message here...">
-        <button type="submit">Send</button>
-    </form>
-</div>
