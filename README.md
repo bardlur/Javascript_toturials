@@ -7,7 +7,9 @@
   <a href="./lesson01/index.js">click here<a/>
   <li><p><strong>Variables <a href="./lesson02/index.js">click here<a/></strong></p></li> 
     <span>&#9679; var</span>
+    <br>
     <span>&#9679; let</span>
+    <br>
     <span>&#9679; const</span>
   <li><p><strong>Operators <a href="./lesson03/index.js">click here<a/></strong></p></li>
     <span>&#9679; +   -   *   /   **   %   =</span>
