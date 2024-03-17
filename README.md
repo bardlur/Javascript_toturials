@@ -11,4 +11,5 @@
   <li><p><strong>Conditional expressions <a href="./lesson06/index.js">click here<a/></strong></p></li>
   <li><p><strong>Null vs undifined <a href="./lesson07/index.js">click here<a/></strong></p></li>
   <li><p><strong>Conditional operators <a href="./lesson08/index.js">click here<a/></strong></p></li>
+  <li><p><strong>Truthy & falsy <a href="./lesson09/index.js">click here<a/></strong></p></li>
 </ol>
