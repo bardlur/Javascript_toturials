@@ -3,5 +3,5 @@
 ## Titles:
 
 <ol>
-  <li><p><strong>Pay rent.</strong></p></li>
+  <li><p><strong>Run your first code!</strong></p></li>
 </ol>
