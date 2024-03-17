@@ -11,13 +11,20 @@
     <br>
     <span>&#9679; const</span>
   <li><p><strong>Operators</strong> <a href="./lesson03/index.js">click here<a/></p></li>
-    <span>&#9679;Sum(+)</span>
+    <span>&#9679; Sum(+)</span>
+    <br>
     <span>&#9679;-</span>
+    <br>
     <span>&#9679;**</span>
+    <br>
     <span>&#9679;/</span>
+    <br>
     <span>&#9679;%</span>
+    <br>
     <span>&#9679;**</span>
+    <br>
     <span>&#9679;++</span>
+    <br>
     <span>&#9679;--</span>
   <li><p><strong>String <a href="./lesson04/index.js">click here<a/></strong></p></li>
     <span>&#9679;`` "" ''</span>
