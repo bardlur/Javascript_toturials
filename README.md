@@ -13,11 +13,11 @@
   <li><p><strong>Operators</strong> <a href="./lesson03/index.js">click here<a/></p></li>
     <span>&#9679; Sum(+)</span>
     <br>
-    <span>&#9679;-</span>
+    <span>&#9679; Subtraction(-)</span>
     <br>
-    <span>&#9679;**</span>
+    <span>&#9679; Multiplication(*)</span>
     <br>
-    <span>&#9679;/</span>
+    <span>&#9679; Division(/)</span>
     <br>
     <span>&#9679;%</span>
     <br>
