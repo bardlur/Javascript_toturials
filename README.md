@@ -7,7 +7,7 @@
   <li>
     <p><strong>Variables <a href="./lesson02/index.js">click here<a/></strong></p>
     <ul>
-      <li><p><var, let, const</p></li>
+      <li><p>var, let, const</p></li>
     </ul>
   </li> 
   <li><p><strong>Operators <a href="./lesson03/index.js">click here<a/></strong></p></li>
