@@ -45,17 +45,21 @@
     <span>&#9679; else</span>
   <li><p><strong>Null vs undifined </strong> <a href="./lesson07/index.js">click here<a/></p></li>
   <li><p><strong>Conditional operators </strong> <a href="./lesson08/index.js">click here<a/></p></li>
-    <span>&#9679; bigger than ></span>
+    <span>&#9679; Greater than > </span>
     <br>
-    <span>&#9679; smaller <</span>
+    <span>&#9679; Less than < </span>
     <br>
-    <span>&#9679; const</span>
+    <span>&#9679; Greater than or equal to >= </span>
     <br>
-    <span>&#9679; var</span>
+    <span>&#9679; Less than or equal to <= </span>
     <br>
-    <span>&#9679; let</span>
+    <span>&#9679; Not equal to !=</span>
+      <br>
+    <span>&#9679; Equal to ==</span>
     <br>
-    <span>&#9679; const</span>
+    <span>&#9679; Strict not equal to !==</span>
+    <br>
+    <span>&#9679; Strict equal to ===</span>
   <li><p><strong>Truthy & falsy </strong> <a href="./lesson09/index.js">click here<a/></p></li>
   <li><p><strong>Logical expressions </strong> <a href="./lesson10/index.js">click here<a/></p></li>
 
