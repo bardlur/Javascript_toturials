@@ -45,7 +45,7 @@
     <span>&#9679; else</span>
   <li><p><strong>Null vs undifined </strong> <a href="./lesson07/index.js">click here<a/></p></li>
   <li><p><strong>Conditional operators </strong> <a href="./lesson08/index.js">click here<a/></p></li>
-    <span>&#9679; Greater than > </span>
+    <span>&#9679; Greater than > : Compares if the value on the left side is greater than the value on the right side. </span>
     <br>
     <span>&#9679; Less than < </span>
     <br>
