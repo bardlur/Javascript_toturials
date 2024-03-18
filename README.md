@@ -13,8 +13,8 @@
     <span>&#9679; let</span>
     <br>
     <span>&#9679; const</span>
-    <br>
-    <br>
+  <br>
+  <br>
   <li><p><strong>Operators</strong> <a href="./lesson03/index.js">click here<a/></p></li>
     <span>&#9679; Plus +</span>
     <br>
