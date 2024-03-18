@@ -45,9 +45,9 @@
     <span>&#9679; else</span>
   <li><p><strong>Null vs undifined </strong> <a href="./lesson07/index.js">click here<a/></p></li>
   <li><p><strong>Conditional operators </strong> <a href="./lesson08/index.js">click here<a/></p></li>
-    <span>&#9679; bigger than /></span>
+    <span>&#9679; bigger than ></span>
     <br>
-    <span>&#9679; let</span>
+    <span>&#9679; smaller <</span>
     <br>
     <span>&#9679; const</span>
     <br>
