@@ -1,16 +1,22 @@
-//variables
-//let , var, const
-//var => stop = let, const;
-let Name = 'Erfan Yousefi';
+//variables: let , var, const
+
+let Name = 'Bardia Khadmei';
 console.log(Name);
-let Age = 25;
-const username = "erfanyousefi";
-Name = "Mila Azami";
+
+let Age = 21;
+const username = "bardlur";
+
+Name = "Reza Heydarzadeh";
 console.log(Name);
-Name = "Ali Davodi";
+
+Name = "Keyhan Kalhor";
 console.log(Name);
 console.log(Age)
-Age = 26;
+
+Age = 30;
 console.log(Age)
+
+// Output code:
+    
 
 
