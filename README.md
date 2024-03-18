@@ -6,7 +6,6 @@
 <ol>
   <li><p><strong>Run your first code!</strong> <a href="./lesson01/index.js">click here<a/></p></li>
     <br>
-    <br>
   <li><p><strong>Variables</strong> <a href="./lesson02/index.js">click here<a/></p></li> 
     <span>&#9679; var</span>
     <br>
