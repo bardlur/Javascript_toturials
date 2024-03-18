@@ -47,18 +47,25 @@
   <li><p><strong>Conditional operators </strong> <a href="./lesson08/index.js">click here<a/></p></li>
     <span>&#9679; Greater than > : Compares if the value on the left side is greater than the value on the right side. </span>
     <br>
-    <span>&#9679; Less than : Compares if the value on the left side is less than the value on the right side.< </span>
+    <br>
+    <span>&#9679; Less than : Compares if the value on the left side is less than the value on the right side. </span>
+    <br>
     <br>
     <span>&#9679; Greater than or equal to >= : Compares if the value on the left side is greater than or equal to the value on the right side.</span>
     <br>
+    <br>
     <span>&#9679; Less than or equal to <= : Compares if the value on the left side is less than or equal to the value on the right side.</span>
     <br>
+    <br>
     <span>&#9679; Not equal to != : Checks if the value on the left side is not equal to the value on the right side. It performs type coercion.</span>
-      <br>
+    <br>
+    <br>
     <span>&#9679; Equal to == : Checks if the value on the left side is equal to the value on the right side. It performs type coercion.</span>
     <br>
+    <br>   
     <span>&#9679; Strict not equal to !== : Checks if the value on the left side is not equal to the value on the right side or their types do not match.
 </span>
+    <br>
     <br>
     <span>&#9679; Strict equal to === : Checks if the value on the left side is equal to the value on the right side and if their types match.</span>
   <li><p><strong>Truthy & falsy </strong> <a href="./lesson09/index.js">click here<a/></p></li>
