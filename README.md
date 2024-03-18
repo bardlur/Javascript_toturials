@@ -69,7 +69,10 @@
     <br>
     <span>&#9679; Strict equal to === : Checks if the value on the left side is equal to the value on the right side and if their types match.</span>
   <li><p><strong>Truthy & falsy </strong> <a href="./lesson09/index.js">click here<a/></p></li>
-  <li><p><strong>Logical expressions </strong> <a href="./lesson10/index.js">click here<a/></p></li>
+  <li><p><strong and &&>Logical expressions </strong> <a href="./lesson10/index.js">click here<a/></p></li>
+  <span>&#9679; or ||</span>
+  <br>
+  <span>&#9679; Equal to == : Checks if the value on the left side is equal to the value on the right side. It performs type coercion.</span>
 
   
 </ol>
