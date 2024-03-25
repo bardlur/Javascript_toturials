@@ -1,5 +1,5 @@
 # Javascript toturials
-- With these 44 lessons, you can learn the JavaScript programming language.
+- With these 44 lessons, you can learn the Javascript programming language.
 
 ## Lessons:
 
